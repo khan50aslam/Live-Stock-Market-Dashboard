@@ -1,0 +1,3 @@
+pip install streamlit yfinance plotly pandas # Install required libraries to connect the live server 
+
+streamlit run stock_market_dashboard.py      # Run the dashboard locally  
